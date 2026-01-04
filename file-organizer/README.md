@@ -1,6 +1,7 @@
+  GNU nano 8.6                file-organizer/README.md
 # File Organizer (Bash Script)
 
-This tool automatically organizes files in a directory into folders based on file type.
+This tool automatically organizes files in a directory into folders based on fi>
 
 ## Features
 - Automatically creates folders
