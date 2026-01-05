@@ -68,13 +68,13 @@ You can easily extend this list inside the script.
 - Bash 4+
 - Git
 - For monitoring features:
-```bash
-sudo apt install inotify-tools```
+  bash
+sudo apt install inotify-tools
 
 ##organize.sh — File Organizer
 Make Executable (once)
-```cd file-organizer/src
-chmod +x organize.sh```
+cd file-organizer/src 
+chmod +x organize.sh
 
 ##Organize Current Folder
 ./organize.sh
@@ -83,7 +83,7 @@ chmod +x organize.sh```
 ./organize.sh /path/to/target-folder
 
 ##Undo/Recovery
-```./organize.sh --undo```
+./organize.sh --undo
 
 - Restores all files to original locations
 - Uses .file_organizer.log
