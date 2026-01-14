@@ -8,17 +8,6 @@ This repository is **project-based**, **industry-oriented**, and built to demons
 - Automation, safety, and recoverability
 - Documentation-first engineering mindset
 
-## 📦 Projects Included
-
-bash-utility-tools/
-├── backup-sync-utility/
-├── file-organizer/
-├── file-organizer-with-user-interface/
-├── smart-cleanup/
-├── network-health-checker/
-├── LICENSE
-└── README.md
-
 ---
 
 ## 🔹 Project Overview
