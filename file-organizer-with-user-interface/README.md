@@ -2,7 +2,7 @@ Got it. You want a **single all-in-one README.md** that includes **everything**:
 
 ---
 
-```markdown
+markdown
 # 🗂️ Web-Based Automated File Organizer (Bash + Flask)
 
 A lightweight, **click-and-go automation tool** that organizes files in a selected folder using **Bash scripting** and a **web-based interface** with **Flask**.  
@@ -208,25 +208,7 @@ Ideal for portfolio, demos, and automation learning.
 
 ```
 
----
 
-This **all-in-one README.md** now includes:
-
-- Project description  
-- Features  
-- Tech stack  
-- File structure  
-- Prerequisites  
-- One-click setup  
-- Usage instructions  
-- Undo mechanism  
-- Path notes  
-- Example use cases  
-- Future enhancements  
-- Important notes  
-- License & author info  
-
----
 
 If you want, I can **also create a visual version** with **screenshots of the UI, folder structure, and flow diagram** that makes this repo **portfolio-ready for recruiters**.  
 
